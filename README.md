@@ -1,8 +1,10 @@
 # Marketing based on Income Classification
 
-Predicting if a person has an income lower or greater than $50k based on 1994 US Census information.
-The dataset for this project was obtained from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/adult)
+Businesses want to be effective in their marketing campaign efforts to maximize value by targeting the right customer segment, but sometimes they struggle to accomplish this. If businesses can predict a customer's income based on other pieces of known information, they can target certain products and services more effectively.
 
+The intention of this analysis is to better understand what characteristics can predict whether a customer's income is greater than $50k USD based on US Census data. With the information obtained in this analysis, our target is to build a predictive classification model to segment people with income greater than $50k USD with a 85% precision.
+
+The dataset for this project was obtained from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/adult)
 
 **1. Data**
 - [Original Data - Train](/data/adult.data)
